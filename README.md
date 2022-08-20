@@ -1,8 +1,8 @@
 npm start
-// create react application
-npx create-react-app my-app
-// command for strictions to use typescript and npm
-npx create-react-app dotnet_react_client --template typescript --use-npm
+// create react application.\
+npx create-react-app my-app.\
+// command for strictions to use typescript and npm.\
+npx create-react-app dotnet_react_client --template typescript --use-npm.\
 # React
 - it is library developed using JS and html
 - 
