@@ -1,3 +1,4 @@
+// start react application\
 npm start\
 // create react application.\
 npx create-react-app my-app.\
