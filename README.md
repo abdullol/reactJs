@@ -1,4 +1,4 @@
-npm start
+npm start\
 // create react application.\
 npx create-react-app my-app.\
 // command for strictions to use typescript and npm.\
